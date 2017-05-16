@@ -5,3 +5,5 @@ security:
 management:
   security:
     enabled: false # turn off securing the actuator endpoints
+    
+quoteServiceURL: http://quote-service-qa.cfapps.io/quote
